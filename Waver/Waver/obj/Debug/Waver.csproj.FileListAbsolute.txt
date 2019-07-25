@@ -1,0 +1,10 @@
+C:\Users\patgi\source\repos\Waver\Waver\obj\Debug\Waver.csprojAssemblyReference.cache
+C:\Users\patgi\source\repos\Waver\Waver\obj\Debug\Waver.Form1.resources
+C:\Users\patgi\source\repos\Waver\Waver\obj\Debug\Waver.Properties.Resources.resources
+C:\Users\patgi\source\repos\Waver\Waver\obj\Debug\Waver.csproj.GenerateResource.cache
+C:\Users\patgi\source\repos\Waver\Waver\obj\Debug\Waver.csproj.CoreCompileInputs.cache
+C:\Users\patgi\source\repos\Waver\Waver\bin\Debug\Waver.exe.config
+C:\Users\patgi\source\repos\Waver\Waver\bin\Debug\Waver.exe
+C:\Users\patgi\source\repos\Waver\Waver\bin\Debug\Waver.pdb
+C:\Users\patgi\source\repos\Waver\Waver\obj\Debug\Waver.exe
+C:\Users\patgi\source\repos\Waver\Waver\obj\Debug\Waver.pdb
